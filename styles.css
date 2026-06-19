@@ -1,0 +1,13 @@
+#mensaje {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.texto-verde {
+    color: green;
+}
+
+.texto-rojo {
+    color: red;
+}
